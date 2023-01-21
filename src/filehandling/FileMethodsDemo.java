@@ -21,6 +21,7 @@ public class FileMethodsDemo {
             System.out.println(file.getAbsolutePath());
             System.out.println(file.getParent());
             System.out.println(file.getFreeSpace());
+            System.out.println("Change");
         }
         catch (Exception e)
         {
